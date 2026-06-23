@@ -101,4 +101,4 @@ The frontend currently uses hardcoded placeholder data. Backend integration is i
 - [ ] Database integration (PostgreSQL)
 - [ ] Connect frontend to live API endpoints
 - [ ] Authentication (manager vs admin roles)
-- [ ] Deployment (Vercel + Render)
+- [ ] Deployment
