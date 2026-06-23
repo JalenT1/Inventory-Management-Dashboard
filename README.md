@@ -88,8 +88,8 @@ The frontend currently uses hardcoded placeholder data. Backend integration is i
 
 | Role | Contribution |
 |------|-------------|
-| Frontend Engineer | React UI, responsive layout, Figma design, component architecture |
-| Backend Engineer | Java Spring Boot API, database design, REST endpoints |
+| Jalen Tottress | React UI, responsive layout, Figma design, component architecture |
+| Sayel Haque | Java Spring Boot API, database design, REST endpoints |
 
 ---
 
