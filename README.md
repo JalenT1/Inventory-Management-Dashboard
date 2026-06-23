@@ -7,14 +7,11 @@ A full-stack inventory and business analytics system built for small coffee shop
 ## Tech Stack
 
 **Frontend**
+- Figma Deisgn
 - React 18 + TypeScript
-- Vite
-- Tailwind CSS
-- shadcn/ui components
-- Recharts (data visualization)
 
 **Backend** *(in development)*
-- Java (Spring Boot)
+- Java
 - REST API
 - PostgreSQL
 
