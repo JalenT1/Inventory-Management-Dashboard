@@ -1,4 +1,4 @@
-# Brew & Crumb — Inventory Management Dashboard
+# Inventory Management Dashboard
 
 A full-stack inventory and business analytics system built for small coffee shops and bakeries. Tracks real-time stock levels, sales, restocking, and generates daily, weekly, monthly, and yearly revenue reports through a clean manager dashboard.
 
